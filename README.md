@@ -1,4 +1,4 @@
 # ImagePuller
 
-A demo of pulling image to a UI texture in Unity3D.
-Tested in Unity 2019.4.10f1.
+This project is a demo of pulling an image to a UI texture in Unity3D.<br/>
+It was tested in Unity 2019.4.10f1.
