@@ -927,11 +927,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 123802554}
     m_Modifications:
-    - target: {fileID: 8968350378577945496, guid: 967dfc6d71a9da249b43e28e1f11edf1,
-        type: 3}
-      propertyPath: m_Text
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8968350378577945497, guid: 967dfc6d71a9da249b43e28e1f11edf1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1042,15 +1037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Web Image InputField 2
       objectReference: {fileID: 0}
-    - target: {fileID: 8968350379739345826, guid: 967dfc6d71a9da249b43e28e1f11edf1,
-        type: 3}
-      propertyPath: m_Text
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8968350380011859231, guid: 967dfc6d71a9da249b43e28e1f11edf1,
         type: 3}
-      propertyPath: m_Enabled
-      value: 1
+      propertyPath: m_Text
+      value: Image 2 URL...
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 967dfc6d71a9da249b43e28e1f11edf1, type: 3}
@@ -1182,11 +1172,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 123802554}
     m_Modifications:
-    - target: {fileID: 8968350378577945496, guid: 967dfc6d71a9da249b43e28e1f11edf1,
-        type: 3}
-      propertyPath: m_Text
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8968350378577945497, guid: 967dfc6d71a9da249b43e28e1f11edf1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1297,15 +1282,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Web Image InputField 3
       objectReference: {fileID: 0}
-    - target: {fileID: 8968350379739345826, guid: 967dfc6d71a9da249b43e28e1f11edf1,
-        type: 3}
-      propertyPath: m_Text
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8968350380011859231, guid: 967dfc6d71a9da249b43e28e1f11edf1,
         type: 3}
-      propertyPath: m_Enabled
-      value: 1
+      propertyPath: m_Text
+      value: Image 3 URL...
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 967dfc6d71a9da249b43e28e1f11edf1, type: 3}
@@ -1583,11 +1563,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 123802554}
     m_Modifications:
-    - target: {fileID: 8968350378577945496, guid: 967dfc6d71a9da249b43e28e1f11edf1,
-        type: 3}
-      propertyPath: m_Text
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8968350378577945497, guid: 967dfc6d71a9da249b43e28e1f11edf1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1697,16 +1672,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Web Image InputField 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8968350379739345826, guid: 967dfc6d71a9da249b43e28e1f11edf1,
-        type: 3}
-      propertyPath: m_Text
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 8968350380011859231, guid: 967dfc6d71a9da249b43e28e1f11edf1,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 967dfc6d71a9da249b43e28e1f11edf1, type: 3}
